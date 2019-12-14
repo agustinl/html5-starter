@@ -2,10 +2,10 @@
 # The humans responsible & technology colophon
 
 # TEAM
-	Agustin Lautaro
-	Contact: aencaje [at] gmail.com
-	Twitter: @agustinlautaro
-	From: Buenos Aires, Argentina
+	Jhon Doe
+	Contact:  [at] 
+	Twitter: @
+	From: 
 
 # SITE
 	Last update: XX/XX/XXXX
