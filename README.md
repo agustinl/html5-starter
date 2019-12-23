@@ -1,7 +1,7 @@
 # HTML5-Starter
 
 Basic HTML5 starter template 🎈.  
-Include jQuery
+Include jQuery and Google Analytics tag
 
 ### Folder structure
 
