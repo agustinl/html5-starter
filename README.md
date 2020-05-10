@@ -1,7 +1,15 @@
+<p align="center">
+    <img alt="No Comments" src="https://raw.githubusercontent.com/agustinl/html5-starter/master/assets/images/no-comments.png">
+</p>
+
 # HTML5-Starter
 
 Basic HTML5 starter template 🎈.  
 Include jQuery and Google Analytics tag
+
+```
+git clone https://github.com/agustinl/html5-starter.git
+```
 
 ### Folder structure
 
@@ -11,10 +19,17 @@ html5-starter/
 ├── 404.html
 ├── humans.txt
 ├── robots.txt
-├── manifest.json
+├── site.webmanifest
+├── favicon.png
+├── favicon-16x16.png
+├── favicon-32x32.png
+├── apple-touch-icon.png
+├── android-chrome-192x192.png
+├── android-chrome-512x512.png
 ├── css/
 │   └── main.css
 ├── js/
 │   └── main.js
-└── img/
+└── assets/
+    └── images
 ```
