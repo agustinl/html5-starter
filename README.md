@@ -1,11 +1,6 @@
-<p align="center">
-    <img alt="No Comments" src="https://raw.githubusercontent.com/agustinl/html5-starter/master/assets/images/no-comments.png">
-</p>
-
 # HTML5-Starter
 
-Basic HTML5 starter template 🎈.  
-Include jQuery and Google Analytics tag
+Basic HTML5 starter template 🎈
 
 ```
 git clone https://github.com/agustinl/html5-starter.git
